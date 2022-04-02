@@ -1,8 +1,9 @@
 - 👋 Salut, je suis @Code-Jfk87 !
 - 👀 J'envisage d'être developpeur. Mais c'est chaud là. :)
 - 🌱 J'apprends en ce moment le JavaScript.
-<!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
+<!--- 💞️ I’m looking to collaborate on ...--->
+
 
 <!---
 Code-Jfk87/Code-Jfk87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
