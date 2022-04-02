@@ -1,8 +1,8 @@
 - 👋 Salut, je suis @Code-Jfk87 !
 - 👀 J'envisage d'être developpeur. Mais c'est chaud là. :)
 - 🌱 J'apprends en ce moment le JavaScript.
-- 📫 How to reach me ...
-<!--- 💞️ I’m looking to collaborate on ...--->
+<!---- 📫 How to reach me ...
+ 💞️ I’m looking to collaborate on ...--->
 
 
 <!---
