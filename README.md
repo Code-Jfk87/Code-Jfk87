@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @Code-Jfk87 !
 - 👀 J'envisage d'être developpeur.
-- 🌱 J'apprends en ce moment le JavaScript.
+- 🌱 J'apprends en ce moment React.
 <!---- 📫 How to reach me ...
  💞️ I’m looking to collaborate on ...--->
 
